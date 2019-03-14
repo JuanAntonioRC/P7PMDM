@@ -97,7 +97,9 @@
             android:layout_alignParentEnd="true"
             android:layout_alignParentBottom="true"
             android:layout_marginEnd="51dp"
-            android:layout_marginBottom="12dp" />
+            android:layout_marginBottom="12dp"
+            android:scaleX="0.5"
+            android:scaleY="0.5" />
 
     </RelativeLayout>
 
@@ -115,14 +117,13 @@
 
         <EditText
             android:id="@+id/infoComentario"
-            android:layout_width="384dp"
-            android:layout_height="257dp"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:layout_below="@+id/textView5"
             android:layout_alignParentStart="true"
-            android:layout_alignParentTop="true"
-            android:layout_marginStart="1dp"
-            android:layout_marginTop="32dp"
             android:ems="10"
             android:inputType="textMultiLine" />
+
     </RelativeLayout>
 
 </LinearLayout>

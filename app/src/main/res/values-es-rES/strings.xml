@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P7-PMDM</string>
+    <string name="misLugares">Mis lugares favoritos</string>
+    <string name="nombreSitio">Nombre</string>
+    <string name="nombreCiudad">Ciudad</string>
+    <string name="Longitud">Longitud</string>
+    <string name="Latitud">Latitud</string>
+    <string name="Valoracion">Valoración</string>
+    <string name="Comentario">Comentarios</string>
+    <string name="guardar">Guardar</string>
+    <string name="editar">Editar</string>
+    <string name="Borrar">Eliminar</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
